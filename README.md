@@ -2,7 +2,7 @@
 Hydrology from Space with Google Earth Engine
 
 ## What
-Sets of [Jupyter notebooks](https://jupyter.org/) written in python to be used with [Google Earth Engine] (https://earthengine.google.com/) 
+Sets of [Jupyter notebooks](https://jupyter.org/) written in python to be used with [Google Earth Engine](https://earthengine.google.com/) 
 ## Why
 Resources on python API for GEE are limited (mostly in Java) and by HydroSat Education, we hope to serve the community of users and students by simplifying their workflow and accelerating their learning.
 
